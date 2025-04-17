@@ -1,6 +1,6 @@
 <?php
 // API de OpenAI
-$api_key = "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";
+$api_key = "KEY_OPENIA";
 
 // Leer la documentación
 $documentacion = file_get_contents("documentacion.txt");
